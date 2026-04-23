@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Utsho (Aditya Barma)
+# 👋 Hey, I'm Aditya Barma (Utsho)
 
 🚀 Founder of **Vidraze Studio**  
 💻 Full-stack dev | UI/UX designer | Creative builder  
@@ -16,22 +16,17 @@
 ---
 
 ## ⚡ Tech Stack
-```js
-Frontend: React, HTML, CSS, JavaScript  
-Backend: Node.js, Express  
-Design: Figma, Photoshop, After Effects, Premiere Pro  
-Tools: Git, GitHub, VS Code  
-<!--
-**utsho99/utsho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+![After Effects](https://img.shields.io/badge/After%20Effects-black?style=for-the-badge&logo=adobeaftereffects)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
