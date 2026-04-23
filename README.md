@@ -1,32 +1,62 @@
-# 👋 Hey, I'm Aditya Barma (Utsho)
+<!-- HERO -->
+<h1 align="center">⚡ Aditya barma / Utsho</h1>
 
-🚀 Founder of **Vidraze Studio**  
-💻 Full-stack dev | UI/UX designer | Creative builder  
-🎯 Turning ideas into digital experiences that actually make money  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Founder+of+Vidraze+Studio;Full+Stack+Developer;UI%2FUX+Designer;Building+Money+Making+Projects" />
+</p>
 
 ---
 
+<!-- ABOUT -->
 ## 🧠 About Me
-- 🛠️ I build **websites, brands & digital systems**
-- 🎨 Love designing **premium, futuristic UI**
-- 📈 Exploring **AI tools + content growth systems**
-- 🧩 90% coding, 10% debugging… (okay maybe 50/50)
-- ☕ Turning coffee into code since… recently
+💻 I build **websites that convert**  
+🎨 Obsessed with **premium UI + futuristic design**  
+🚀 Founder of **Vidraze Studio**  
+📈 Exploring **AI + growth systems**  
 
 ---
 
+<!-- TECH STACK VISUAL -->
 ## ⚡ Tech Stack
 
-### 🚀 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,ps,ae,pr,git,vscode&theme=dark" />
+</p>
 
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
-![After Effects](https://img.shields.io/badge/After%20Effects-black?style=for-the-badge&logo=adobeaftereffects)
+---
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
+<!-- STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utsho99&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsho99&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+<!-- PROJECTS -->
+## 🚀 What I Build
+✨ E-commerce Websites  
+✨ Brand Websites  
+✨ AI Tools  
+✨ Social Media Growth Systems  
+
+---
+
+<!-- CONTACT -->
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-01777206392-25D366?style=for-the-badge&logo=whatsapp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Brand-Vidraze%20Studio-black?style=for-the-badge"/></a>
+</p>
+
+---
+
+<!-- FUN -->
+## 🧃 Dev Mood
+```bash
+> building something crazy...
+> fixing bugs...
+> creating money machines 💸
